@@ -44,15 +44,14 @@ let softwareList = [
       "A design tool where designer designs the web or the app and developer watch it to turn it into code",
   },
   {
-    name: "Adobe Xd",
-    downloadUrl: "https://helpx.adobe.com/xd/get-started.html",
-    usage:
-      "A design tool where designer designs the web or the app and developer watch it to turn it into code",
-  },
-  {
     name: "Node js",
     downloadUrl: "https://nodejs.org/en/",
     usage:
       "A tool to add/download libraries to your application/project by using commands such as npm install <library-name>",
+  },
+  {
+    name: "Mongo DB Compass",
+    downloadUrl: "https://www.mongodb.com/try/download/compass",
+    usage: "A GUI tool to monitor mongo db database changes",
   },
 ];
