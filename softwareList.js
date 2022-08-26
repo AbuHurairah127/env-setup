@@ -54,4 +54,27 @@ let softwareList = [
     downloadUrl: "https://www.mongodb.com/try/download/compass",
     usage: "A GUI tool to monitor mongo db database changes",
   },
+  {
+    name: "JDK (Java Development Kit)",
+    downloadUrl: "https://www.oracle.com/java/technologies/downloads/",
+    usage:
+      "A tool to for Java development which is used to build android applications.We will use it in the React Native projects.",
+  },
+  {
+    name: "Android Studio",
+    downloadUrl:
+      "https://developer.android.com/studio?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLm2HKYbgye1GA9oQS2T7NuPcTDav72RtWKi1kpfzdpGy2zmO_GRlERoC5lQQAvD_BwE&gclsrc=aw.ds",
+    usage: "A code editor for android development.",
+    additionalOptionsForReactNativeDevelopment: [
+      "Android SDK",
+      "Android SDK Platform",
+      "Android Virtual Device",
+      "For further information, see https://reactnative.dev/docs/environment-setup",
+    ],
+  },
+  {
+    name: "Vysor",
+    downloadUrl: "https://www.vysor.io/download/",
+    usage: "A tool to connect a physical device for React Native development.",
+  },
 ];
