@@ -33,6 +33,24 @@ let chorme_extentions_list = [
   {
     name: "Fake Filler",
     usage: "It is use to add fake data in the forms while web testing",
+    downloadLink:
+      "https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en",
+  },
+  {
+    name: "Go Full Page",
+    usage: "It is use to get th full page screen shot of full web page",
+    downloadLink:
+      "https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en",
+  },
+  {
+    name: "JSON Viewer",
+    usage: "It show the JSON file more beautifully and symmetrically",
+    downloadLink:
+      "https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en",
+  },
+  {
+    name: "",
+    usage: "",
     downloadLink: "",
   },
 ];
