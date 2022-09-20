@@ -53,4 +53,19 @@ let chorme_extentions_list = [
     usage: "",
     downloadLink: "",
   },
+  //Github Special Extensions that will make your github look like VS CODE.
+  {
+    name: "Enhanced Github",
+    usage:
+      "Automatically displays each file size in every active branch (not applicable for folder / symlink).Show download link for each individual file (not applicable for folder / symlink).Copy file's contents directly to Clipboard (just won't work for markdown files).",
+    downloadLink:
+      "https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?hl=en",
+  },
+  {
+    name: "Material Icons for Github",
+    usage:
+      "Replace the file/folder icons on the GitHub file browser with icons representing the file's type and which tool it is used by.",
+    downloadLink:
+      "https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc?hl=en",
+  },
 ];
