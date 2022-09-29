@@ -68,4 +68,11 @@ let chorme_extentions_list = [
     downloadLink:
       "https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc?hl=en",
   },
+  {
+    name: "Octotree - GitHub code tree",
+    usage:
+      "It is used to generate sidebar same as the vscode to move into different files",
+    downloadLink:
+      "https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc",
+  },
 ];
