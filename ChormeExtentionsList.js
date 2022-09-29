@@ -75,4 +75,11 @@ let chorme_extentions_list = [
     downloadLink:
       "https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc",
   },
+  {
+    name: "OctoLinker",
+    usage:
+      "It is used to move btw files same as the file peek extension means by pressing the ctrl + leftClick to move file to see the definition of function or file",
+    downloadLink:
+      "https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp",
+  },
 ];
