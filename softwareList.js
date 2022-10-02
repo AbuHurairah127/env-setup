@@ -77,4 +77,9 @@ let softwareList = [
     downloadUrl: "https://www.vysor.io/download/",
     usage: "A tool to connect a physical device for React Native development.",
   },
+  {
+    name: "Ubantu",
+    downloadUrl: "download from microsoft store",
+    usage: "A tool for creating an environment of Linux in Windows",
+  },
 ];
